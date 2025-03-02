@@ -8,8 +8,7 @@ sites:
   - name: Server
     url: $SERVER_IP
     port: 22
-    check: "tcp-ping"
-    ipv6: false
+    icon: https://cdn-icons-png.flaticon.com/512/188/188109.png
   - name: GoFile.io
     url: https://gofile.io
 
