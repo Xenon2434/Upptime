@@ -6,10 +6,12 @@ sites:
   - name: Forum Site
     url: https://spankingforum.su
   - name: Server
-    url: ${{ secrets.SERVER_IP }}
+    url: $SERVER_IP
     port: 22
     check: "tcp-ping"
     ipv6: false
+  - name: GoFile.io
+    url: https://gofile.io
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -18,6 +20,7 @@ status-website:
   baseUrl: /Upptime
   logoUrl: https://raw.githubusercontent.com/Xenon2434/Upptime/refs/heads/master/assets/logo.svg
   name: SpankingForum Site Status
+  theme: dark
   #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
