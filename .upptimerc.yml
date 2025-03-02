@@ -6,10 +6,10 @@ sites:
   - name: Forum Site
     url: https://spankingforum.su
   - name: Server
-    url: forwardemail.net
-    port: 80
+    url: ${{ secrets.SERVER_IP }}
+    port: 22
     check: "tcp-ping"
-    ipv6: true
+    ipv6: false
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
