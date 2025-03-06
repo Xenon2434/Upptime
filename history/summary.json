@@ -4,36 +4,40 @@
     "url": "https://spankingforum.su",
     "icon": "https://icons.duckduckgo.com/ip3/spankingforum.su.ico",
     "slug": "forum-site",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1002,
-    "timeDay": 968,
-    "timeWeek": 1002,
-    "timeMonth": 1002,
-    "timeYear": 1002,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 2431,
+    "timeDay": 11719,
+    "timeWeek": 2431,
+    "timeMonth": 2431,
+    "timeYear": 2431,
+    "dailyMinutesDown": {
+      "2025-03-06": 1
+    }
   },
   {
     "name": "Server",
     "url": "$SERVER_IP",
     "icon": "https://cdn-icons-png.flaticon.com/512/188/188109.png",
     "slug": "server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 134,
-    "timeDay": 174,
-    "timeWeek": 134,
-    "timeMonth": 134,
-    "timeYear": 134,
-    "dailyMinutesDown": {}
+    "time": 133,
+    "timeDay": 125,
+    "timeWeek": 133,
+    "timeMonth": 133,
+    "timeYear": 133,
+    "dailyMinutesDown": {
+      "2025-03-06": 0
+    }
   },
   {
     "name": "GoFile.io",
@@ -46,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 340,
-    "timeDay": 290,
-    "timeWeek": 340,
-    "timeMonth": 340,
-    "timeYear": 340,
+    "time": 337,
+    "timeDay": 303,
+    "timeWeek": 337,
+    "timeMonth": 337,
+    "timeYear": 337,
     "dailyMinutesDown": {}
   }
 ]
