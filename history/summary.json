@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/spankingforum.su.ico",
     "slug": "forum-site",
     "status": "down",
-    "uptime": "38.12%",
+    "uptime": "37.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "38.12%",
+    "uptimeYear": "37.80%",
     "time": 847,
     "timeDay": 238,
     "timeWeek": 284,
     "timeMonth": 267,
     "timeYear": 847,
     "dailyMinutesDown": {
-      "2025-05-07": 81,
+      "2025-05-07": 885,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
@@ -90,7 +90,7 @@
     "url": "https://gofile.io",
     "icon": "https://icons.duckduckgo.com/ip3/gofile.io.ico",
     "slug": "go-file-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -101,6 +101,8 @@
     "timeWeek": 385,
     "timeMonth": 347,
     "timeYear": 333,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-07": 0
+    }
   }
 ]
