@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/spankingforum.su.ico",
     "slug": "forum-site",
     "status": "up",
-    "uptime": "23.42%",
+    "uptime": "23.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "20.58%",
+    "uptimeYear": "20.86%",
     "time": 471,
-    "timeDay": 974,
-    "timeWeek": 750,
-    "timeMonth": 1209,
+    "timeDay": 444,
+    "timeWeek": 728,
+    "timeMonth": 1215,
     "timeYear": 388,
     "dailyMinutesDown": {
       "2026-02-17": 1417,
@@ -303,8 +303,7 @@
       "2025-05-09": 1440,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
-      "2025-05-06": 1440,
-      "2025-05-05": 1440
+      "2025-05-06": 1440
     }
   },
   {
@@ -313,18 +312,19 @@
     "icon": "https://cdn-icons-png.flaticon.com/512/188/188109.png",
     "slug": "server",
     "status": "down",
-    "uptime": "75.01%",
+    "uptime": "74.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "70.78%",
+    "uptimeYear": "70.50%",
     "time": 139,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2026-05-04": 161,
+      "2026-05-05": 155,
+      "2026-05-04": 1440,
       "2026-05-03": 1440,
       "2026-05-02": 1440,
       "2026-05-01": 1440,
@@ -450,10 +450,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 259,
-    "timeDay": 183,
-    "timeWeek": 206,
-    "timeMonth": 186,
-    "timeYear": 246,
+    "timeDay": 186,
+    "timeWeek": 190,
+    "timeMonth": 188,
+    "timeYear": 245,
     "dailyMinutesDown": {
       "2025-05-07": 45
     }
